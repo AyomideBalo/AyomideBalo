@@ -1,7 +1,9 @@
-<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1><h2><li>Junior Software Engineer</li></a><br/><li>First Class Honours Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Masters Student (Computational Finance KCL Offer and more)</li></a></h2>
+***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Honours Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Masters Student (Computational Finance KCL Offer and more)</li></a></h2>
 
 <a href="https://www.linkedin.com/in/ayomide-balogun-346281273/">LinkedIn</a><br/>
 <a href="https://frabjous-choux-cfab6e.netlify.app/">Creative Portfolio</a>
+
+<u><h1>***A little more info...***</h1></u>
 
 Eager to truly immerse myself in the realm of technology, beyond academics, I attained a plethora of experiences that have educated me on many areas within technology. These experiences include... 
 
@@ -9,7 +11,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
 - Insights, online masterclasses, courses/certificates, experience days, academies, x2 hackathons (Google and Capital-one) and more..
 
-<h1>💻🕺Here are a few of my Software Development Projects:</h1>
+***<h1>💻🕺Here are a few of my Software Development Projects:</h1>***
 
 - <b>(TEMPORARY EXAMPLES FROM TEMPLATE USED)Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
