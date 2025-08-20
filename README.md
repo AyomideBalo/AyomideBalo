@@ -30,8 +30,6 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
         <img src="images/NextInternImageSixth.png" width="450" alt="Project Image 6">
   </div>
  
-  Platform is able to perform a skill-gap analysis on opportunities to identify gaps and help students to close these skill gaps and attaining opportunities they so desire.
-  
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
 - <b>User Experience🎨:</b>
