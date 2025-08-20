@@ -21,7 +21,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
     
   - Repo: [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)🔒
   
-  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx)
+  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
   
     <div align="center">
         <img src="images/NextInternImageFirst.png" width="450" alt="Project Image 1">
