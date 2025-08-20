@@ -1,3 +1,4 @@
+Page under contruction, projects not yet added ‼️
 ***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Honours Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Masters Student (Computational Finance KCL Offer and more)</li></a></h2>
 
 <a href="https://www.linkedin.com/in/ayomide-balogun-346281273/">LinkedIn</a><br/>
@@ -13,19 +14,21 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 ***<h1>💻🕺Here are a few of my Software Development Projects:</h1>***
 
-- <b>(TEMPORARY EXAMPLES FROM TEMPLATE USED)Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Main Projects📌</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Software and Web Development 💻</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
+- <b>User Experience🎨</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>(TEMPORARY EXAMPLES FROM TEMPLATE USED)PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+- <b>Requirements Engineering📝</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Databases and Domain Modelling🗄️</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Research🔬</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 <!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on improving my skills regarding the analysis of algorithms
+- ⚡ Fun fact about me: Outside of developing, I love fitness, going to the gym and rollerskating
 -->
