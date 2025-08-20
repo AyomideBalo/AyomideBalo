@@ -16,32 +16,19 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 - <h1><b>Main Projects📌:</b></h1>
     <h2>NextIntern: Personalised Internship Search Platform</h2>
+
+  Introducing my final year undergraduate project - NextIntern. NextIntern is a unique web-application helping Technology, Finance and Law students effectively manage and track internship, placement, and graduate applications. The application features advanced tools such as machine-learning based match scoring and artificial-intelligence based tailored-feedback. I achieved a first on the dissertation component. 
     
   - Repo: [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)🔒
   
-  - Dissertation: 
+  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://raw.githubusercontent.com/username/repository/main/your-dissertation.docx)
   
-   <div align="center">
-    <img src="images/NextInternImageFirst.png" width="600" alt="Project Image 1">
-    <img src="images/NextInternImageFourth.png" width="600" alt="Project Image 2">
+    <div align="center">
+        <img src="images/NextInternImageFirst.png" width="450" alt="Project Image 1">
+        <img src="images/NextInternImageFourth.png" width="450" alt="Project Image 2">
+        <img src="images/NextInternImageFourth.png" width="450" alt="Project Image 3">
+        <img src="images/NextInternImageSixth.png" width="450" alt="Project Image 6">
   </div>
-  
-  A glimpse of main page welcoming the user.
-
-  User is able to find internship/placement opportunities using the search and filters. Match scoring feature uses predicitive analytics to give a percentage indicating suitability for the opportunity based on users skills, experience and overall profile.
-
-    <div align="center">
-        <img src="images/NextInternImageFourth.png" width="600" alt="Project Image 3">
-        <img src="images/NextInternImageFifth.png" width="600" alt="Project Image 4">
-      </div>
-
-  User is able to find internship/placement opportunities using the search and filters. Match scoring feature uses predicitive analytics to give a percentage indicating suitability for the opportunity based on users skills, experience and overall profile.
-
-  Location pins are colour-coded by Match Score.
-
-    <div align="center">
-            <img src="images/NextInternImageSixth.png" width="600" alt="Project Image 6">
-          </div>
  
   Platform is able to perform a skill-gap analysis on opportunities to identify gaps and help students to close these skill gaps and attaining opportunities they so desire.
   
