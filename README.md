@@ -19,8 +19,8 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
   Introducing my final year undergraduate project - NextIntern. NextIntern is a unique web-application helping Technology, Finance and Law students effectively manage and track internship, placement, and graduate applications. The application features advanced tools such as machine-learning based match scoring and artificial-intelligence based tailored-feedback. I achieved a first on the dissertation component. 
     
-  - Repo: [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)🔒
-  
+  - Repo: [NextIntern Project Repository (Private)](https://github.com/AyomideBalo/NextIntern_.git)🔒
+
   - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
   
     <div align="center">
