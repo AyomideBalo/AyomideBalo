@@ -15,7 +15,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 ***<h1>💻🕺Here are a few of my Software Development Projects:</h1>***
 
 - <h1><b>Main Projects📌:</b></h1>
-    <h2>NextIntern: Personalised Internship Search Platform</h2>
+    <h2>NextIntern: Personalised Internship Search Platform📌</h2>
 
   Introducing my final year undergraduate project - NextIntern. NextIntern is a unique web-application helping Technology, Finance and Law students effectively manage and track internship, placement, and graduate applications. The application features advanced tools such as machine-learning based match scoring and artificial-intelligence based tailored-feedback. I achieved a first on the dissertation component. 
     
