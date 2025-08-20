@@ -14,26 +14,37 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 ***<h1>💻🕺Here are a few of my Software Development Projects:</h1>***
 
-- <b>Main Projects📌:</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <h1><b>Main Projects📌:</b></h1>
+    <h2>NextIntern: Personalised Internship Search Platform</h2>
+    
+  - Repo: [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)🔒
   
-  ![Project Image 1](images/NextInternImageFirst.png)
-  *[ description for NextInternImageFirst.png]*
+  - Dissertation: 
   
-  ![Project Image 2](images/NextInternImageSecond.png)
-  *[ description for NextInternImageSecond.png]*
+   <div align="center">
+    <img src="images/NextInternImageFirst.png" width="600" alt="Project Image 1">
+    <img src="images/NextInternImageFourth.png" width="600" alt="Project Image 2">
+  </div>
   
-  ![Project Image 3](images/NextInternImageThird.png)
-  *[ description for NextInternImageThird.png]*
+  A glimpse of main page welcoming the user.
+
+  User is able to find internship/placement opportunities using the search and filters. Match scoring feature uses predicitive analytics to give a percentage indicating suitability for the opportunity based on users skills, experience and overall profile.
+
+    <div align="center">
+        <img src="images/NextInternImageFourth.png" width="600" alt="Project Image 3">
+        <img src="images/NextInternImageFifth.png" width="600" alt="Project Image 4">
+      </div>
+
+  User is able to find internship/placement opportunities using the search and filters. Match scoring feature uses predicitive analytics to give a percentage indicating suitability for the opportunity based on users skills, experience and overall profile.
+
+  Location pins are colour-coded by Match Score.
+
+    <div align="center">
+            <img src="images/NextInternImageSixth.png" width="600" alt="Project Image 6">
+          </div>
+ 
+  Platform is able to perform a skill-gap analysis on opportunities to identify gaps and help students to close these skill gaps and attaining opportunities they so desire.
   
-  ![Project Image 4](images/NextInternImageFourth.png)
-  *[ description for NextInternImageFourth.png]*
-  
-  ![Project Image 5](images/NextInternImageFifth.png)
-  *[ description for NextInternImageFifth.png]*
-  
-  ![Project Image 6](images/NextInternImageSixth.png)
-  *[ description for NextInternImageSixth.png]*
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
 - <b>User Experience🎨:</b>
