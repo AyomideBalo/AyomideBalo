@@ -14,17 +14,17 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 ***<h1>💻🕺Here are a few of my Software Development Projects:</h1>***
 
-- <b>Main Projects📌</b>
+- <b>Main Projects📌:</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Software and Web Development 💻</b>
+- <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
-- <b>User Experience🎨</b>
+- <b>User Experience🎨:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Requirements Engineering📝</b>
+- <b>Requirements Engineering📝:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Databases and Domain Modelling🗄️</b>
+- <b>Databases and Domain Modelling🗄️:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Research🔬</b>
+- <b>Research🔬:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 <!--
