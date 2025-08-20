@@ -16,6 +16,24 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 - <b>Main Projects📌:</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+  ![Project Image 1](images/NextInternImageFirst.png)
+  *[ description for NextInternImageFirst.png]*
+  
+  ![Project Image 2](images/NextInternImageSecond.png)
+  *[ description for NextInternImageSecond.png]*
+  
+  ![Project Image 3](images/NextInternImageThird.png)
+  *[ description for NextInternImageThird.png]*
+  
+  ![Project Image 4](images/NextInternImageFourth.png)
+  *[ description for NextInternImageFourth.png]*
+  
+  ![Project Image 5](images/NextInternImageFifth.png)
+  *[ description for NextInternImageFifth.png]*
+  
+  ![Project Image 6](images/NextInternImageSixth.png)
+  *[ description for NextInternImageSixth.png]*
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
 - <b>User Experience🎨:</b>
