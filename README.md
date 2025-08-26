@@ -1,4 +1,5 @@
-Page under contruction, projects not yet added ‼️
+Page under contruction‼️
+
 ***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Msc Computational Finance Student at Kings College London</li></a></h2>
 
 <a href="https://www.linkedin.com/in/ayomide-balogun-346281273/">LinkedIn</a><br/>
@@ -27,25 +28,31 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
         <img src="images/NextInternImageFirst.png" width="450" alt="Project Image 1">
         <img src="images/NextInternImageFourth.png" width="450" alt="Project Image 2">
         <img src="images/NextInternImageFourth.png" width="450" alt="Project Image 3">
-        <img src="images/NextInternImageSixth.png" width="450" alt="Project Image 6">
+        <img src="images/NextInternImageSixth.png" width="450" alt="Project Image 4">
   </div>
 
-<h2>Airbnb Predictive Pricing Model using Machine Learning (Big Data)📌</h2>
-
-This project involved developing a predictive model to forecast Airbnb property prices in London by leveraging a large dataset of over 65,000 entries and over 31 columns. During this project, I explored key concepts in supervised and unsupervised machine learning, with a specific focus on data manipulation, transformation, and analysis for big data. The project demonstrates my ability to build and evaluate a robust predictive model from a large, raw dataset.
-
-Just a few of the visited areas:
-K-Means clustering, local vs global models, regression, Random Forest, R2 Score and RMSE, Multicollinearity and Overfitting and feature engineering.
-
-Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-I achieved a final grade of 83% on this project.
-    
-  - Repo: [Airbnb Predictive Model Project Repository (Public)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔓
-
-  - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
-
- 
+  <h2>Airbnb Predictive Pricing Model using Machine Learning (Big Data)📌</h2>
+  
+  This project involved developing a predictive model to forecast Airbnb property prices in London by leveraging a large dataset of over 65,000 entries and over 31 columns. During this project, I explored key concepts in supervised and unsupervised machine learning, with a specific focus on data manipulation, transformation, and analysis for big data. The project demonstrates my ability to build and evaluate a robust predictive model from a large, raw dataset.
+  
+  Just a few of the visited areas:
+  K-Means clustering, local vs global models, regression, Random Forest, R2 Score and RMSE, Multicollinearity and Overfitting and feature engineering.
+  
+  Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+  
+  I achieved a final grade of 83% on this project.
+      
+    - Repo: [Airbnb Predictive Model Project Repository (Public)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔓
+  
+    - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
+  
+   <div align="center">
+        <img src="clusters.png" width="450" alt="Project Image 1">
+        <img src="correlationMatrix.png" width="450" alt="Project Image 2">
+        <img src="elbowmethod.png" width="450" alt="Project Image 3">
+        <img src="plot.png" width="450" alt="Project Image 4">
+        <img src="randomforest.png" width="450" alt="Project Image 5">
+  </div>
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
 - <b>User Experience🎨:</b>
