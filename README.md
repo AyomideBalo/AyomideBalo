@@ -41,9 +41,9 @@ Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 I achieved a final grade of 83% on this project.
     
-  - Repo: [Airbnb Predictive Model Project Repository (Private)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔒
+  - Repo: [Airbnb Predictive Model Project Repository (Public)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔓
 
-  - Report: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
+  - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
 
  
 - <b>Software and Web Development 💻:</b>
