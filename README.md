@@ -1,5 +1,5 @@
 Page under contruction, projects not yet added ‼️
-***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Honours Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Masters Student (Computational Finance KCL Offer and more)</li></a></h2>
+***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Honours Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Masters Student in Computational Finance at Kings College London</li></a></h2>
 
 <a href="https://www.linkedin.com/in/ayomide-balogun-346281273/">LinkedIn</a><br/>
 <a href="https://frabjous-choux-cfab6e.netlify.app/">Creative Portfolio</a>
