@@ -1,6 +1,6 @@
 Page under contruction‼️
 
-***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Incoming 2026 Msc Computational Finance Student at Kings College London</li></a></h2>
+***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Msc Computational Finance Student at Kings College London (2025-2026)</li></a></h2>
 
 <a href="https://www.linkedin.com/in/ayomide-balogun-346281273/">LinkedIn</a><br/>
 <a href="https://frabjous-choux-cfab6e.netlify.app/">Creative Portfolio</a>
@@ -47,10 +47,10 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
     - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
   
    <div align="center">
-        <img src="clusters.png" width="400" alt="Project Image 1">
-        <img src="correlationMatrix.png" width="400" alt="Project Image 2">
-        <img src="plot.png" width="400" alt="Project Image 3">
-        <img src="randomforest.png" width="400" alt="Project Image 4">
+        <img src="clusters.png" width="450" alt="Project Image 1">
+        <img src="correlationMatrix.png" width="450" alt="Project Image 2">
+        <img src="plot.png" width="450" alt="Project Image 3">
+        <img src="elbowmethod.png" width="450" alt="Project Image 4">
   </div>
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
