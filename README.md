@@ -47,11 +47,11 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
     - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
   
    <div align="center">
-        <img src="clusters.png" width="450" alt="Project Image 1">
-        <img src="correlationMatrix.png" width="450" alt="Project Image 2">
-        <img src="elbowmethod.png" width="450" alt="Project Image 3">
-        <img src="plot.png" width="450" alt="Project Image 4">
-        <img src="randomforest.png" width="450" alt="Project Image 5">
+        <img src="clusters.png" width="400" alt="Project Image 1">
+        <img src="correlationMatrix.png" width="400" alt="Project Image 2">
+        <img src="elbowmethod.png" width="400" alt="Project Image 3">
+        <img src="plot.png" width="400" alt="Project Image 4">
+        <img src="randomforest.png" width="400" alt="Project Image 5">
   </div>
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
