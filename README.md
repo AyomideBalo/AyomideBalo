@@ -17,7 +17,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 - <h1><b>Main Projects📌:</b></h1>
     <h2>NextIntern: Personalised Internship Search Platform📌</h2>
 
-  Introducing my final year undergraduate project - NextIntern. NextIntern is a unique web-application helping Technology, Finance and Law students effectively manage and track internship, placement, and graduate applications. The application features advanced tools such as machine-learning based match scoring and artificial-intelligence based tailored-feedback. I achieved a first on the dissertation component. 
+  Introducing my final year undergraduate project - NextIntern. NextIntern is a unique location-based web-application helping Technology, Finance and Law students effectively discover, manage and track internship, placement, and graduate opportunities. The application features advanced tools such as machine-learning based match scoring and artificial-intelligence based tailored-feedback. I achieved a first on the dissertation component. 
     
   - Repo: [NextIntern Project Repository (Private)](https://github.com/AyomideBalo/NextIntern_.git)🔒
 
@@ -29,6 +29,22 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
         <img src="images/NextInternImageFourth.png" width="450" alt="Project Image 3">
         <img src="images/NextInternImageSixth.png" width="450" alt="Project Image 6">
   </div>
+
+<h2>Airbnb Predictive Pricing Model using Machine Learning (Big Data)📌</h2>
+
+This project involved developing a predictive model to forecast Airbnb property prices in London by leveraging a large dataset of over 65,000 entries and over 31 columns. During this project, I explored key concepts in supervised and unsupervised machine learning, with a specific focus on data manipulation, transformation, and analysis for big data. The project demonstrates my ability to build and evaluate a robust predictive model from a large, raw dataset.
+
+Just a few of the visited areas:
+K-Means clustering, local vs global models, regression, Random Forest, R2 Score and RMSE, Multicollinearity and Overfitting and feature engineering.
+
+Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+I achieved a final grade of 83% on this project.
+    
+  - Repo: [NextIntern Project Repository (Private)](https://github.com/AyomideBalo/NextIntern_.git)🔒
+
+  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
+
  
 - <b>Software and Web Development 💻:</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
