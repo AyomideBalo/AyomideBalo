@@ -41,9 +41,9 @@ Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 I achieved a final grade of 83% on this project.
     
-  - Repo: [NextIntern Project Repository (Private)](https://github.com/AyomideBalo/NextIntern_.git)🔒
+  - Repo: [Airbnb Predictive Model Project Repository (Private)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔒
 
-  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
+  - Report: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
 
  
 - <b>Software and Web Development 💻:</b>
