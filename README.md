@@ -64,7 +64,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
     - Repo: [AWS Private Cloud System Report (Private)](https://github.com/AyomideBalo/AWS-Private-Cloud-System) (Download raw file to read)🔒
 <br/>
    <div align="center">
-        <img src="images/HLD-AWSCloudSystem.png" width="450" alt="Project Image 1">
+        <img src="images/HLD-AWSCloudSystem.png" width="350" alt="Project Image 1">
   </div>
 
 <!--
