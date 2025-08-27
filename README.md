@@ -1,4 +1,4 @@
-under contruction‼️
+under contruction
 
 ***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Msc Computational Finance Student at Kings College London (2025-2026)</li></a></h2>
 
