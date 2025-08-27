@@ -22,7 +22,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
     
   - Repo: [NextIntern Project Repository (Private)](https://github.com/AyomideBalo/NextIntern_.git)🔒
 
-  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/229062975DissertationCO3015.docx) (Download raw file to read)
+  - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/229062975DissertationCO3015.docx) (Download raw file to read)
   
     <div align="center">
         <img src="images/NextInternImageFirst.png" width="450" alt="Project Image 1">
@@ -44,7 +44,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
       
     - Repo: [Airbnb Predictive Model Project Repository (Public)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔓
   
-    - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
+    - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ab1228ReportBigData.pdf) (Download raw file to read)
   
    <div align="center">
         <img src="images/clusters.png" width="450" alt="Project Image 1">
