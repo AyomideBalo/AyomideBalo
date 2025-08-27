@@ -1,4 +1,4 @@
-Page under contruction‼️
+under contruction‼️
 
 ***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Msc Computational Finance Student at Kings College London (2025-2026)</li></a></h2>
 
@@ -52,16 +52,24 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
         <img src="plot.png" width="450" alt="Project Image 3">
         <img src="elbowmethod.png" width="450" alt="Project Image 4">
   </div>
-- <b>Software and Web Development 💻:</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>(Potentially NSFW)</b>
-- <b>User Experience🎨:</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Requirements Engineering📝:</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Databases and Domain Modelling🗄️:</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Research🔬:</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+  <h2>AWS Private Cloud System with a Real-Time Collaborative Whiteboard Application📌</h2>
+
+  This project involved designing and implementing a private cloud system on AWS to host a real-time collaborative whiteboard application. My group and I focused on creating a distributed system that was consistent, scalable, and fault-tolerant.
+  
+  
+  To ensure all users saw the same whiteboard state, we implemented etcd, which is built on the Raft consensus algorithm. The application was deployed across multiple nodes using Docker containers and automated scripts for seamless deployment and scaling. This project demonstrates my ability to manage cloud resources, handle distributed systems, and implement containerisation.
+  
+  I achieved a final grade of 71.50% on this project (1:1).
+  
+    - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
+  
+   <div align="center">
+        <img src="clusters.png" width="450" alt="Project Image 1">
+        <img src="correlationMatrix.png" width="450" alt="Project Image 2">
+        <img src="plot.png" width="450" alt="Project Image 3">
+        <img src="elbowmethod.png" width="450" alt="Project Image 4">
+  </div>
   
 <!--
 
