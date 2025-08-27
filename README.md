@@ -3,7 +3,7 @@ under contruction‼️
 ***<h1>Hello, I'm Ayo!👩🏾‍💻✨<br/></h1>***<h2><li>Junior Software Engineer</li></a><br/><li>First Class Bsc Computer Science Graduate</li></a><br/><li>Aspiring FinTech Professional (developer)</li></a><br/><li>Msc Computational Finance Student at Kings College London (2025-2026)</li></a></h2>
 
 <a href="https://www.linkedin.com/in/ayomide-balogun-346281273/">LinkedIn</a><br/>
-<a href="https://frabjous-choux-cfab6e.netlify.app/">Creative Portfolio</a>
+<a href="">Creative Portfolio (under-construction)</a>
 
 <u><h1>***A little more info...***</h1></u>
 
@@ -62,15 +62,12 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
   I achieved a final grade of 71.50% on this project (1:1).
   
-    - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
+    - Repo: [AWS Private Cloud System Report (Private)](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)🔒
   
    <div align="center">
-        <img src="clusters.png" width="450" alt="Project Image 1">
-        <img src="correlationMatrix.png" width="450" alt="Project Image 2">
-        <img src="plot.png" width="450" alt="Project Image 3">
-        <img src="elbowmethod.png" width="450" alt="Project Image 4">
+        <img src="HLD-AWSCloudSystem.png" width="450" alt="Project Image 1">
   </div>
-  
+
 <!--
 
 - 🔭 I’m currently working on improving my skills regarding the analysis of algorithms
