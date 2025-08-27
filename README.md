@@ -47,10 +47,10 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
     - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)
   
    <div align="center">
-        <img src="clusters.png" width="450" alt="Project Image 1">
-        <img src="correlationMatrix.png" width="450" alt="Project Image 2">
-        <img src="plot.png" width="450" alt="Project Image 3">
-        <img src="elbowmethod.png" width="450" alt="Project Image 4">
+        <img src="images/clusters.png" width="450" alt="Project Image 1">
+        <img src="images/correlationMatrix.png" width="450" alt="Project Image 2">
+        <img src="images/plot.png" width="450" alt="Project Image 3">
+        <img src="images/elbowmethod.png" width="450" alt="Project Image 4">
   </div>
 
   <h2>AWS Private Cloud System with a Real-Time Collaborative Whiteboard Application📌</h2>
