@@ -61,7 +61,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
   I achieved a final grade of 71.50% on this project (1:1).
   
-    - Repo: [AWS Private Cloud System Report (Private)](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)🔒
+    - Repo: [AWS Private Cloud System Report (Private)](https://github.com/AyomideBalo/AWS-Private-Cloud-System) (Download raw file to read)🔒
 <br/>
    <div align="center">
         <img src="images/HLD-AWSCloudSystem.png" width="450" alt="Project Image 1">
