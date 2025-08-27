@@ -57,15 +57,14 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
   This project involved designing and implementing a private cloud system on AWS to host a real-time collaborative whiteboard application. My group and I focused on creating a distributed system that was consistent, scalable, and fault-tolerant.
   
-  
   To ensure all users saw the same whiteboard state, we implemented etcd, which is built on the Raft consensus algorithm. The application was deployed across multiple nodes using Docker containers and automated scripts for seamless deployment and scaling. This project demonstrates my ability to manage cloud resources, handle distributed systems, and implement containerisation.
   
   I achieved a final grade of 71.50% on this project (1:1).
   
     - Repo: [AWS Private Cloud System Report (Private)](https://github.com/AyomideBalo/AyomideBalo/blob/main/ab1228ReportBigData.pdf) (Download raw file to read)🔒
-  
+<br/>
    <div align="center">
-        <img src="HLD-AWSCloudSystem.png" width="450" alt="Project Image 1">
+        <img src="images/HLD-AWSCloudSystem.png" width="450" alt="Project Image 1">
   </div>
 
 <!--
