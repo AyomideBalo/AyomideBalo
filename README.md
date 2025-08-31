@@ -40,7 +40,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
   I achieved a final grade of 83% on this project.
       
-    - Repo: [Airbnb Predictive Model Project Repository (Public)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)🔓
+    - Repo: [Airbnb Predictive Model Project Repository (Public)](https://github.com/AyomideBalo/Airbnb-PredictiveModel/tree/main)
   
     - Report: [Airbnb Predictive Model Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ab1228ReportBigData.pdf) (Download raw file to read)
   
@@ -67,7 +67,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
 - <h1><b>Software & Web Development💻:</b></h1>
 
-  <h2>Student Personal Development Plan: My First Web Page</h2>
+  <h2>Student Personal Development Plan: Web Page</h2>
       
   My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
           
@@ -89,7 +89,7 @@ I developed a high-fidelity prototype for 'SneakWise', a website I designed to s
 
 I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity html prototype.
           
-   - Repo: [High-fidelity HTML Prototype (Public)](https://github.com/AyomideBalo/SneakWise.git)🔓
+   - Repo: [High-fidelity HTML Prototype (Public)](https://github.com/AyomideBalo/SneakWise.git)
    - Report: [High-fidelity HTML Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ReportCW2.pdf) (Download raw file to read)
    - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)🔓
 
