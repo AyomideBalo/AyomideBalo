@@ -67,6 +67,18 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
 - <h1><b>Software & Web Development💻:</b></h1>
 
+      <h2>Student Personal Development Plan: My First Web Page</h2>
+      
+        My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I added was the animated student ID card to which my lecturer quite liked. 
+          
+        - Repo: [NextIntern Project Repository (Private)](https://github.com/AyomideBalo/NextIntern_.git)🔒
+      
+        - Dissertation: [NextIntern: Personalised Internship Search Platform](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/229062975DissertationCO3015.docx) (Download raw file to read)
+        
+          <div align="center">
+              <img src="images/NextInternImageFirst.png" width="450" alt="Project Image 1">
+  </div>
+
 - <h1><b>User Experience🤩:</b></h1>
 
 - <h1><b>Requirements Engineering📝:</b></h1>
