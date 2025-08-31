@@ -75,7 +75,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
       
    - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
 
-  <h2>Android Shopping Application</h2>
+  <h2>Android Shopping-list App & RESTful API for bookstore</h2>
       
   For this project, my partner and I designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design and achieved a perfect score of 100%.
           
