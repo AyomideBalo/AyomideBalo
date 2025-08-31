@@ -73,7 +73,7 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
           
    - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
       
-   - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/229062975DissertationCO3015.docx) (Download raw file to read)
+   - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
 
   <h2>Android Shopping Application</h2>
       
