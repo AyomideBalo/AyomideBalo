@@ -79,6 +79,20 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
               <img src="images/personalprofile(project)-screenshot.png" width="350" alt="Project Image 1">
   </div>
 
+  <h2>Android Shopping Application</h2>
+      
+  For this project, we designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design to achieve an "Exceptional" grade.****
+
+
+          
+   - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
+      
+   - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/229062975DissertationCO3015.docx) (Download raw file to read)
+        
+  <div align="center">
+              <img src="images/personalprofile(project)-screenshot.png" width="350" alt="Project Image 1">
+  </div>
+
 - <h1><b>User Experience🤩:</b></h1>
 
 - <h1><b>Requirements Engineering📝:</b></h1>
