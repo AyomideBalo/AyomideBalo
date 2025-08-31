@@ -64,6 +64,14 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
    <div align="center">
         <img src="images/HLD-AWSCloudSystem.png" width="350" alt="Project Image 1">
   </div>
+  
+- <h1><b>Software & Web Development💻:</b></h1>
+
+- <h1><b>User Experience🤩:</b></h1>
+
+- <h1><b>Requirements Engineering📝:</b></h1>
+
+- <h1><b>Databases & Domain Modelling💾:</b></h1>
 
 <!--
 
