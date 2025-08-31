@@ -69,29 +69,17 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
   <h2>Student Personal Development Plan: My First Web Page</h2>
       
-  My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I added was the animated student ID card to which my lecturer quite liked. 
+  My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
           
    - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
       
    - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/229062975DissertationCO3015.docx) (Download raw file to read)
-        
-  <div align="center">
-              <img src="images/personalprofile(project)-screenshot.png" width="350" alt="Project Image 1">
-  </div>
 
   <h2>Android Shopping Application</h2>
       
-  For this project, we designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design to achieve an "Exceptional" grade.****
-
-
+  For this project, my partner and I designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design and achieved a perfect score of 100%.
           
-   - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
-      
-   - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/229062975DissertationCO3015.docx) (Download raw file to read)
-        
-  <div align="center">
-              <img src="images/personalprofile(project)-screenshot.png" width="350" alt="Project Image 1">
-  </div>
+   - Repo: [Android Shopping-list Application & RESTful API for online bookstore (Private)](https://github.com/AyomideBalo/Android-shopping-app.git)🔒
 
 - <h1><b>User Experience🤩:</b></h1>
 
