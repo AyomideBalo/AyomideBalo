@@ -83,9 +83,21 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 - <h1><b>User Experience🤩:</b></h1>
 
+<h2>High-fidelity & Medium-fidelity prototypes: SneakWise</h2>
+      
+I developed a high-fidelity prototype for 'SneakWise', a website I designed to serve as a central hub for London's sneaker enthusiasts. This platform allows the community to connect and share their virtual shoe collections. I also developed medium-fidelity wireframes. 
+
+I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity html prototype.
+          
+   - Repo: [High-fidelity HTML Prototype (Public)](https://github.com/AyomideBalo/SneakWise.git)🔓
+   - Report: [High-fidelity HTML Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ReportCW2.pdf) (Download raw file to read)
+   - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)🔓
+
 - <h1><b>Requirements Engineering📝:</b></h1>
 
 - <h1><b>Databases & Domain Modelling💾:</b></h1>
+
+I developed a high-fidelity prototype for 'SneakWise', a website I designed to serve as a central hub for London's sneaker enthusiasts. This platform allows the community to connect and share their virtual shoe collections.
 
 <!--
 
