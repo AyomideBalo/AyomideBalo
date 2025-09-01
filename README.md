@@ -91,13 +91,27 @@ I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity 
           
    - Repo: [High-fidelity HTML Prototype (Public)](https://github.com/AyomideBalo/SneakWise.git)
    - Report: [High-fidelity HTML Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ReportCW2.pdf) (Download raw file to read)
-   - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)🔓
+   - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)�
 
 - <h1><b>Requirements Engineering📝:</b></h1>
 
-- <h1><b>Databases & Domain Modelling💾:</b></h1>
+ <h2>Student Management System</h2>
+      
+  I designed a student dashboard for a student management system to give students and staff a central hub for academic resources. The main goal was to address the challenges students face in managing their studies by providing a seamless interface to track progress and access key information. 
 
-I developed a high-fidelity prototype for 'SneakWise', a website I designed to serve as a central hub for London's sneaker enthusiasts. This platform allows the community to connect and share their virtual shoe collections.
+ I developed a detailed Work Breakdown Structure (WBS) for this project, outlining a variety of features such as a to-do list, a calendar, a grade tracker, and a note-taking platform. I also created a risk register and budget, and defined the roles of the project team members. This project allowed me to learn further about project planning and system requirements.
+                
+   - Documents: [Student Management System Documents](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
+
+<h2>Wash Watcher</h2>
+      
+My group and I designed 'Wash Watcher', a mobile application designed to improve the laundry experience for university students. The goal was to solve problems with existing systems by providing features that help students save time and avoid crowded laundry rooms. After gathering data on student laundry habits; the insights were able to inform the system's functional and non-functional requirements. This project taught how to use data-driven insights to define and prioritise software requirements.
+                
+   - Documents: [Student Management System Documents](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
+
+
+
+Please note: I have completed quite a few more projects that may not be on this profile for various reasons 
 
 <!--
 
