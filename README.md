@@ -69,7 +69,9 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 <h2>Student Personal Development Plan: Web Page</h2>
     
-My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
+My first web page. A personal student PDP form using HTML, CSS, and JavaScript. 
+
+A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
         
  - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
     
@@ -110,7 +112,7 @@ My group and I designed 'Wash Watcher', a mobile application designed to improve
 
 <h2>Visual Report: Environment, Equality, and AI Bias (Research)</h2>
       
-I created a visual report that analyses the impact of technology on the environment, society, and the issue of AI bias. My report explores how technological advancements can influence global carbon emissions, create a digital divide, and perpetuate biases in artificial intelligence. I worked with a partner and completed questions 1 and 3 whilst my partner completed question 2. 
+I created a visual report that analyses the impact of technology on the environment, society, and the issue of AI bias. My report explores how technological advancements can influence global carbon emissions, create a digital divide, and perpetuate biases in artificial intelligence. I worked with a partner and completed questions 1 and 3 whilst my partner completed question 2. I achieved 75/100 and 85/100 on my questions.
 
 For Question 1, I critically evaluated the environmental costs and benefits of transistor technology, using data analysis and visualisations to show the correlation between increased transistor usage and CO2 emissions. I achieved a score of 75/100 on this question. For Question 3, I investigated how the global disparity in AI development can introduce biases, using a case study of a clinical risk prediction algorithm to demonstrate how racial bias can be embedded in AI systems. I scored 85/100 on this section. And the lecturer commented on how interesting and well-researched this part section was. 
 
