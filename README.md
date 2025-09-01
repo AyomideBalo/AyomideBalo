@@ -72,6 +72,10 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 My first web page. A personal student PDP form using HTML, CSS, and JavaScript. 
 
 A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
+
+<div align="center">
+              <img src="images/personalprofile(project)-screenshot.png" width="350" alt="Project Image 1">
+  </div>
         
  - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
     
