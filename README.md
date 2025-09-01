@@ -105,7 +105,7 @@ I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity 
 
  I developed a detailed Work Breakdown Structure (WBS) for this project, outlining a variety of features such as a to-do list, a calendar, a grade tracker, and a note-taking platform. I also created a risk register and budget, and defined the roles of the project team members. This project allowed me to learn further about project planning and system requirements.
                 
-   - Documents: [Student Management System Design Documents](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
+   - Documents: [Student Management System Design Documents](https://github.com/AyomideBalo/AyomideBalo/blob/e8879c179b86cbd399e9aa116817be7abd6b5587/reports/Student%20Management%20System%20-%20toshowTLS.pdf) (Download raw file to read)
 
 <h2>Wash Watcher</h2>
       
