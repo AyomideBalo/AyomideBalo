@@ -73,8 +73,6 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
           
    - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
       
-   - Report: [Student PDP Project Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
-
   <h2>Android Shopping-list App & RESTful API for bookstore</h2>
       
   For this project, my partner and I designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design and achieved a perfect score of 100%.
@@ -90,6 +88,7 @@ I developed a high-fidelity prototype for 'SneakWise', a website I designed to s
 I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity html prototype.
           
    - Repo: [High-fidelity HTML Prototype (Public)](https://github.com/AyomideBalo/SneakWise.git)
+   - Link: https://relaxed-torrone-7cfe7e.netlify.app
    - Report: [High-fidelity HTML Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ReportCW2.pdf) (Download raw file to read)
    - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)�
 
@@ -101,15 +100,21 @@ I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity 
 
  I developed a detailed Work Breakdown Structure (WBS) for this project, outlining a variety of features such as a to-do list, a calendar, a grade tracker, and a note-taking platform. I also created a risk register and budget, and defined the roles of the project team members. This project allowed me to learn further about project planning and system requirements.
                 
-   - Documents: [Student Management System Documents](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
+   - Documents: [Student Management System Design Documents](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
 
 <h2>Wash Watcher</h2>
       
 My group and I designed 'Wash Watcher', a mobile application designed to improve the laundry experience for university students. The goal was to solve problems with existing systems by providing features that help students save time and avoid crowded laundry rooms. After gathering data on student laundry habits; the insights were able to inform the system's functional and non-functional requirements. This project taught how to use data-driven insights to define and prioritise software requirements.
                 
-   - Documents: [Student Management System Documents](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/reportFirstWebPage.pdf) (Download raw file to read)
+   - Documents: [Wash Watcher Documents](https://github.com/AyomideBalo/AyomideBalo/blob/7f3fdd2fc7ffb52002bf92b96d32eae376da5c54/reports/WashWatcher-Latest.docx) (Download raw file to read)
 
+<h2>Visual Report: Environment, Equality, and AI Bias (Research)</h2>
+      
+I created a visual report that analyses the impact of technology on the environment, society, and the issue of AI bias. My report explores how technological advancements can influence global carbon emissions, create a digital divide, and perpetuate biases in artificial intelligence. I worked with a partner and completed questions 1 and 3 whilst my partner completed question 2. 
 
+For Question 1, I critically evaluated the environmental costs and benefits of transistor technology, using data analysis and visualisations to show the correlation between increased transistor usage and CO2 emissions. I achieved a score of 75/100 on this question. For Question 3, I investigated how the global disparity in AI development can introduce biases, using a case study of a clinical risk prediction algorithm to demonstrate how racial bias can be embedded in AI systems. I scored 85/100 on this section. And the lecturer commented on how interesting and well-researched this part section was. 
+
+   - Documents: [Visual Report: Environment, Equality, and AI Bias (Research Documents)](https://github.com/AyomideBalo/AyomideBalo/blob/7f3fdd2fc7ffb52002bf92b96d32eae376da5c54/reports/VisualReportCW.docx)(Download raw file to read)
 
 Please note: I have completed quite a few more projects that may not be on this profile for various reasons 
 
