@@ -12,6 +12,8 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
 
 ***<h1>💻🕺Here are a few of my Software Development Projects:</h1>***
 
+Please note: I have completed quite a few more projects that may not be on this profile for various reasons 
+
 - <h1><b>Main Projects📌:</b></h1>
     <h2>NextIntern: Personalised Internship Search Platform📌</h2>
 
@@ -121,9 +123,7 @@ I created a visual report that analyses the impact of technology on the environm
 
 For Question 1, I critically evaluated the environmental costs and benefits of transistor technology, using data analysis and visualisations to show the correlation between increased transistor usage and CO2 emissions. I achieved a score of 75/100 on this question. For Question 3, I investigated how the global disparity in AI development can introduce biases, using a case study of a clinical risk prediction algorithm to demonstrate how racial bias can be embedded in AI systems. I scored 85/100 on this section. And the lecturer commented on how interesting and well-researched this part section was. 
 
-   - Documents: [Visual Report: Environment, Equality, and AI Bias (Research Documents)](https://github.com/AyomideBalo/AyomideBalo/blob/7f3fdd2fc7ffb52002bf92b96d32eae376da5c54/reports/VisualReportCW.docx)(Download raw file to read)
-
-Please note: I have completed quite a few more projects that may not be on this profile for various reasons 
+   - Documents: [Visual Report: Environment, Equality, and AI Bias (Research Documents)](https://github.com/AyomideBalo/AyomideBalo/blob/7f3fdd2fc7ffb52002bf92b96d32eae376da5c54/reports/VisualReportCW.docx)(Download raw file to read) 
 
 <!--
 
