@@ -72,6 +72,8 @@ My first web page. A personal student PDP form using HTML, CSS, and JavaScript.
 
 A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
 
+Link: https://stellar-tanuki-0320bf.netlify.app/actualcw2work
+
 <div align="center">
               <img src="images/personalprofile(project)-screenshot.png" width="350" alt="Project Image 1">
   </div>
