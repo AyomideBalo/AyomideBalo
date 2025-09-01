@@ -67,17 +67,17 @@ Eager to truly immerse myself in the realm of technology, beyond academics, I at
   
 - <h1><b>Software & Web Development💻:</b></h1>
 
-  <h2>Student Personal Development Plan: Web Page</h2>
-      
-  My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
-          
-   - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
-      
-  <h2>Android Shopping-list App & RESTful API for bookstore</h2>
-      
-  For this project, my partner and I designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design and achieved a perfect score of 100%.
-          
-   - Repo: [Android Shopping-list Application & RESTful API for online bookstore (Private)](https://github.com/AyomideBalo/Android-shopping-app.git)🔒
+<h2>Student Personal Development Plan: Web Page</h2>
+    
+My first web page. A personal student PDP form using HTML, CSS, and JavaScript. A key feature I included was the animated swinging student ID card and landyard to which my lecturer quite liked. 
+        
+ - Repo: [Student PDP Project Repository (Private)](https://github.com/AyomideBalo/PersonalProfile-firstyearofuni.git)🔒
+    
+<h2>Android Shopping-list App & RESTful API for bookstore</h2>
+    
+For this project, my partner and I designed, implemented, and tested a RESTful API for an online bookstore and developed a full-featured Android shopping list application. We focused on database management and a user-friendly design and achieved a perfect score of 100%.
+        
+ - Repo: [Android Shopping-list Application & RESTful API for online bookstore (Private)](https://github.com/AyomideBalo/Android-shopping-app.git)🔒
 
 - <h1><b>User Experience🤩:</b></h1>
 
@@ -90,7 +90,7 @@ I achieved 84% for the medium fidelity wireframes and 71% for the high-fidelity 
    - Repo: [High-fidelity HTML Prototype (Public)](https://github.com/AyomideBalo/SneakWise.git)
    - Link: https://relaxed-torrone-7cfe7e.netlify.app
    - Report: [High-fidelity HTML Report](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/ReportCW2.pdf) (Download raw file to read)
-   - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)�
+   - Wireframes: [Medium-fidelity Prototypes - wireframes](https://github.com/AyomideBalo/AyomideBalo/blob/main/reports/High-fidelity-prototype-UOL.png)
 
 - <h1><b>Requirements Engineering📝:</b></h1>
 
