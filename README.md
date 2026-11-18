@@ -4,9 +4,9 @@
 
 <u><h1>***A little more info...***</h1></u>
 
-Eager to truly immerse myself in the realm of technology, beyond academics, I attained a plethora of experiences that have educated me on many areas within technology. These experiences include... 
+Eager to truly immerse myself in the realm of technology, beyond academics, I attained a plethora of experiences that have educated me on many areas within finance and technology. These experiences include... 
 
-- x2 Internships 
+- x3 Internships (including Risk & Quant Strat Summer Intern)
   
 - Insights, online masterclasses, courses/certificates, experience days, academies, x2 hackathons (Google and Capital-one) and more..
 
